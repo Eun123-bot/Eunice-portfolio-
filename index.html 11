@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Eunice Blessing | Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff0f5;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #ff69b4;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+    h1 {
+      margin: 0;
+    }
+    section {
+      padding: 20px;
+    }
+    .services, .contact {
+      background-color: #ffe4f1;
+      margin: 10px;
+      padding: 15px;
+      border-radius: 8px;
+    }
+    footer {
+      text-align: center;
+      background-color: #ff69b4;
+      color: white;
+      padding: 10px;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Eunice Blessing</h1>
+  <p>Graphic Designer | Virtual Assistant</p>
+</header>
+
+<section class="about">
+  <h2>About Me</h2>
+<p>I am a creative and detail-oriented graphic designer and virtual assistant with a passion for delivering top-notch designs and administrative support. I specialize in branding, social media graphics, and organized task management.</p>
+</section>
+
+<section class="services">
+  <h2>My Services</h2>
+  <ul>
+    <li>Logo & Flyer Design</li>
+    <li>Business Card & Branding</li>
+    <li>Data Entry & Admin Support</li>
+    <li>Email Management</li>
+    <li>Document Formatting (MS Word, Excel)</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>Contact Me</h2>
+  <p>Email: euniceblessing560@gmail.com</p>
+  <p>Phone: +234 803 972 9023</p>
+</section>
+
+<footer>
+  &copy; 2025 Eunice Blessing. All rights reserved.
+</footer>
+
+</body>
+</html>
+```
+
